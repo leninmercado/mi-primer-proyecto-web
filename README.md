@@ -27,3 +27,8 @@ Este es un proyecto simple que muestra un contador de clics en una página web u
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+## Autor
+Lenin Mercado
+
+## Contacto
+leninmercado@gmail.com
